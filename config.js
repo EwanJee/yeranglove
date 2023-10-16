@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: '아니요',
     question: ' 나도 사랑해 ! 오늘 하루는 어땠어? ',
     btnReply: '헤헤',
-    reply: '늘 사랑',
+    reply: '늘 사랑해',
     mess: '오늘 하루도 고생많았어  😘😘',
     messDesc: '다음에 또 만나요.',
     btnAccept: '다음을 기대해 😘',
